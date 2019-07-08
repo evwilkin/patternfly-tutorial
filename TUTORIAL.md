@@ -516,15 +516,15 @@ The javascript libraries we will add are:
 
 ```
 <!-- JS -->
-<script src="node_modules/patternfly/node_modules/jquery/dist/jquery.min.js"></script>
-<script src="node_modules/patternfly/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="node_modules/jquery/dist/jquery.min.js"></script>
+<script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="node_modules/patternfly/dist/js/patternfly.min.js"></script>
 
 <!-- C3, D3 - Charting Libraries -->
-<script src="node_modules/patternfly/node_modules/d3/d3.min.js"></script>
-<script src="node_modules/patternfly/node_modules/c3/c3.min.js"></script>
+<script src="node_modules/d3/d3.min.js"></script>
+<script src="node_modules/c3/c3.min.js"></script>
 
-<script src="node_modules/patternfly/node_modules/jquery-match-height/dist/jquery.matchHeight-min.js"></script>
+<script src="node_modules/jquery-match-height/dist/jquery.matchHeight-min.js"></script>
 ```
 
 ## Customize your app
